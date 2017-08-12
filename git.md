@@ -2,10 +2,32 @@
 
 ## Pre-requisites
 * A GitHub Acoount . If you don't have one make it [here](https://github.com/join)
-* Git . Install Git [here]()
+* Git . Install Git [here](https://git-scm.com/)
 ![git download](git.PNG)
+* Run the setup file,click **next**
+ 
+![git file](1st.PNG)
 
+* Check 2nd checkbox as shown and click **next**
 
+![checkbox](2nd.PNG)
+
+* Check with **_use the native window secure channel library_** and click **next**
+
+![windowcheckbox](3rd.PNG)
+
+* Check with **_use window's default console window_** and click **next**
+
+![checkboxlast](4th.PNG)
+
+* Check first two checkbox and click **next**
+
+![checkboxx](5th.PNG)
+
+* Installation process start
+
+![Installation](6th.PNG)
+ 
 ## Create new repository on Github
 
 1. Open your Github account . You will see a page somewhat like this .
