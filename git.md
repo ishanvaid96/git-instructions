@@ -89,4 +89,36 @@ git remote add origin ** paste here**
 git push origin master
 
 ```
-![git ](git10)
+![git ](git10.PNG)
+
+
+13 . If everything you have done is correct and followed the guide correctly your github repository should have been updated.
+![gitrepo](git11.PNG)
+_something like this_
+ 
+14.  In some cases when you push you might have to sign up . 
+ **Remember** : _when pushing your network should be working_
+ 
+15. For the next times you just need to remember these commands _in this order_
+ ```python
+git add . 
+git commit -m "your message"
+git push origin master 
+
+```
+ 
+16. Some other useful commands are :
+ ```python
+
+git log #tells the log of your commits 
+```
+![gitlog](gitlog.PNG)
+
+```python
+
+git status # used to know the status of the files being tracked or not
+
+```
+![git status](gitstatus.PNG)
+
+17 . Thank you . 
