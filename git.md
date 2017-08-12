@@ -58,4 +58,35 @@ git add filename
 git add .
 ```
 7 . We will use the    _**git add .**_ command
-![git add . ]()
+![git add . ](git6.PNG)
+8 . Once we have added , the next thing we need to do is commit these changes .
+```python
+
+git commit -m "your commit message"
+
+```
+**Remember:**_The commit message should be a meaningful one ._
+![git commit](git7.PNG)
+
+
+9. Next we will connect our GitHub repo with this project using the link given to us on the github page .
+ ![github link](git8.PNG)
+ **Copy the blue highlighted part** 
+ 
+10 . Next we will use the URI Link to connect our project to github .
+
+11. For that we will use 
+```python
+git remote add origin ** paste here**
+
+```
+
+![git remote add](git9.PNG)
+ 
+12 . The last step is to to **_push_** the changes to the repository.
+  ```python
+
+git push origin master
+
+```
+![git ](git10)
