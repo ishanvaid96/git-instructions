@@ -3,7 +3,7 @@
 ## Pre-requisites
 * A GitHub Acoount . If you don't have one make it [here](https://github.com/join)
 * Git . Install Git [here]()
-![git download](git.PNG)
+![git download](Screenshots\git.PNG)
 
 
 ## Create new repository on Github
